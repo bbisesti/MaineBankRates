@@ -22,7 +22,9 @@ NEWSPIDER_MODULE = 'localBankRates.spiders'
 ROBOTSTXT_OBEY = True
 
 # LOG LEVEL
-#LOG_LEVEL = 'INFO'
+LOG_LEVEL = 'INFO'
+LOG_FORMAT = '%(asctime)s [%(name)s] %(levelname)s: %(message)s'
+#LOG_FILE = 'MaineBankRates.log'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32

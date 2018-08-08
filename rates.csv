@@ -1,0 +1,123 @@
+apr,interestRate,minBalance,type
+0.20,0.20,$500,6 Month CD
+0.25,0.25,$500,1 Year CD
+0.30,0.30,$500,18 Month Fixed Rate CD
+2.45,2.42,$500,18 Month Variable Rate IRA CD
+2.00,1.98,"$10,000",19 Month CD
+0.35,0.35,$500,2 Year CD
+1.15,1.14,"   $10,000***  ",35 Month CD
+0.50,0.50,$500,3 Year CD
+0.65,0.65,$500,4 Year CD
+2.00,1.98,$500,5 Year CD
+apr,interestRate,minBalance,type
+0.20,0.20,500,6 Month CD
+0.25,0.25,500,1 Year CD
+0.30,0.30,500,18 Month Fixed Rate CD
+2.45,2.42,500,18 Month Variable Rate IRA CD
+2.00,1.98,"10,000",19 Month CD
+0.35,0.35,500,2 Year CD
+1.15,1.14,"   $10,000***  ",35 Month CD
+0.50,0.50,500,3 Year CD
+0.65,0.65,500,4 Year CD
+2.00,1.98,500,5 Year CD
+age,apr,rate,term,type
+,,,,Vehicle Loans
+,,,,Vehicle Loans
+New to 1 year old,6.50,5.32,4.00%,Vehicle Loans
+4 yrs or less,7.91,6.25,5.38%,Vehicle Loans
+2 - 3 years old,6.85,5.68,4.35%,Vehicle Loans
+4 yrs,8.17,6.50,5.63%,Vehicle Loans
+3 yrs or less,8.43,6.25,5.90%,Vehicle Loans
+4 - 5 years old,7.00,6.14,4.50%,Vehicle Loans
+3 yrs or less,8.68,6.50,6.15%,Vehicle Loans
+6 - 7 years old,7.25,6.91,4.75%,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+New to 1 year old,10.25,9.12,7.75%,Vehicle Loans
+4 yrs or less,11.71,10.00,9.18%,Vehicle Loans
+2 - 3 years old,10.50,9.68,8.00%,Vehicle Loans
+3 yrs or less,12.23,10.00,9.69%,Vehicle Loans
+4 - 5 years old,11.00,10.71,8.50%,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+Maximum of 5 yrs,N/A,N/A,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+Maximum of 3 years,,,16.79%,Vehicle Loans
+"Maximum loan amount $5,000.",,,,Vehicle Loans
+,,,,Vehicle Loans
+,,,,Vehicle Loans
+New to 1 year old,6.50,5.32,4.00%,Vehicle Loans
+4 yrs or less,7.91,6.25,5.38%,Vehicle Loans
+2 - 3 years old,6.85,5.68,4.35%,Vehicle Loans
+4 yrs,8.17,6.50,5.63%,Vehicle Loans
+3 yrs or less,8.43,6.25,5.90%,Vehicle Loans
+4 - 5 years old,7.00,6.14,4.50%,Vehicle Loans
+3 yrs or less,8.68,6.50,6.15%,Vehicle Loans
+6 - 7 years old,7.25,6.91,4.75%,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+New to 1 year old,10.25,9.12,7.75%,Vehicle Loans
+4 yrs or less,11.71,10.00,9.18%,Vehicle Loans
+2 - 3 years old,10.50,9.68,8.00%,Vehicle Loans
+3 yrs or less,12.23,10.00,9.69%,Vehicle Loans
+4 - 5 years old,11.00,10.71,8.50%,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+Maximum of 5 yrs,N/A,N/A,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+Maximum of 3 years,,,16.79%,Vehicle Loans
+"Maximum loan amount $5,000.",,,,Vehicle Loans
+,,,,Vehicle Loans
+,,,,Vehicle Loans
+New to 1 year old,6.50,5.32,4.00%,Vehicle Loans
+4 yrs or less,7.91,6.25,5.38%,Vehicle Loans
+2 - 3 years old,6.85,5.68,4.35%,Vehicle Loans
+4 yrs,8.17,6.50,5.63%,Vehicle Loans
+3 yrs or less,8.43,6.25,5.90%,Vehicle Loans
+4 - 5 years old,7.00,6.14,4.50%,Vehicle Loans
+3 yrs or less,8.68,6.50,6.15%,Vehicle Loans
+6 - 7 years old,7.25,6.91,4.75%,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+New to 1 year old,10.25,9.12,7.75%,Vehicle Loans
+4 yrs or less,11.71,10.00,9.18%,Vehicle Loans
+2 - 3 years old,10.50,9.68,8.00%,Vehicle Loans
+3 yrs or less,12.23,10.00,9.69%,Vehicle Loans
+4 - 5 years old,11.00,10.71,8.50%,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+Maximum of 5 yrs,N/A,N/A,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+Maximum of 3 years,,,16.79%,Vehicle Loans
+"Maximum loan amount $5,000.",,,,Vehicle Loans
+,,,,Vehicle Loans
+,,,,Vehicle Loans
+New to 1 year old,6.50,5.32,4.00%,Vehicle Loans
+4 yrs or less,7.91,6.25,5.38%,Vehicle Loans
+2 - 3 years old,6.85,5.68,4.35%,Vehicle Loans
+4 yrs,8.17,6.50,5.63%,Vehicle Loans
+3 yrs or less,8.43,6.25,5.90%,Vehicle Loans
+4 - 5 years old,7.00,6.14,4.50%,Vehicle Loans
+3 yrs or less,8.68,6.50,6.15%,Vehicle Loans
+6 - 7 years old,7.25,6.91,4.75%,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+6 - 7 years old,,,,Vehicle Loans
+New to 1 year old,10.25,9.12,7.75%,Vehicle Loans
+4 yrs or less,11.71,10.00,9.18%,Vehicle Loans
+2 - 3 years old,10.50,9.68,8.00%,Vehicle Loans
+3 yrs or less,12.23,10.00,9.69%,Vehicle Loans
+4 - 5 years old,11.00,10.71,8.50%,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+4 - 5 years old,,,,Vehicle Loans
+Maximum of 5 yrs,N/A,N/A,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+This is a variable rate product.,,,,Vehicle Loans
+Maximum of 3 years,,,16.79%,Vehicle Loans
+"Maximum loan amount $5,000.",,,,Vehicle Loans
